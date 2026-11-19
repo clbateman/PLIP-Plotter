@@ -82,6 +82,7 @@ python main.py -i data/
 ### Optional arguments
 
 | Argument | Description |
+| -------- | ----------- |
 | `-o`, `--output` | Output directory. Default: `results/` |
 | `--chain-a` | Name of the first receptor chain. Default: `A` |
 | `--chain-b` | Name of the second receptor chain. Default: `B` |
